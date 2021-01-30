@@ -14,7 +14,7 @@ time.sleep(5)
 #Definir contato e mensagem para enviar
 #campo de pesquisa 'copyable-text selectable-text'
 #campo de mensagem privada 'copyable-text selectable-text'
-contatos = ['558199545519']#apenas (DDD) + 9 + número
+contatos = []#apenas (DDD) + 9 + número
 mensagem = 'VAMOS AUTOMATIZAR TUDO DOIDO!'
 
 def buscar_contato(contato):
